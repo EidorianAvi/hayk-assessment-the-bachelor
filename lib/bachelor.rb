@@ -71,4 +71,3 @@ end
 #     end
 #     all_contestants.concat(contestants_with_season)
 # end
-
